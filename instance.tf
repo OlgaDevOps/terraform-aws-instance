@@ -14,7 +14,7 @@ resource "aws_instance" "web" {
         Env = "Development"
         Client = "panera_bread"
         Team = "DevOps"
-        Created_by = "Farrukh"
+        Created_by = "Olga"
     }
 
 }
